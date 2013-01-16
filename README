@@ -1,5 +1,9 @@
 GPU-Accelerated MapReduce-Based Self-Organizing Maps
 
+Please note that this project has been superseded by
+
+https://github.com/peterwittek/somoclu
+
 Example usage with two GPUs:
 
 mpirun -np 2 ./mrsom data/rgbs.txt data/rgbs
